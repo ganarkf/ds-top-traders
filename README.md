@@ -26,7 +26,7 @@
 
 3. **Insert the CA**
 
-  Open `main.py` fill the CA variable
+   Open `main.py` fill the CA variable
 
 4. **Run main.py**
 
