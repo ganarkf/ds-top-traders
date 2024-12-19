@@ -1,0 +1,5 @@
+setuptools
+undetected_chromedriver
+selenium
+requests
+colorama
