@@ -8,7 +8,7 @@ import time
 from colorama import init
 init(autoreset=True)
 
-CA = "78sbwyimvhlumzzg1bdmd6oggig8qpmgyzqcxnymxx4z"
+CA = "# INSERT CA FROM DS LINK #"
 URL = f"https://dexscreener.com/solana/{CA}"
 
 def setup_driver():
