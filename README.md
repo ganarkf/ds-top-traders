@@ -34,8 +34,7 @@
 
 5. **Click the "Top Traders"**
 
-   Click the "Top Traders" Tab until opened
-   ![image](https://github.com/user-attachments/assets/3ff03991-ba61-469b-96f2-4e15f8d5edf0)
+   Click the ![image](https://github.com/user-attachments/assets/3ff03991-ba61-469b-96f2-4e15f8d5edf0) Tab until opened
 
 ## Note
 
