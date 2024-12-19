@@ -36,6 +36,10 @@
 
    Click the ![image](https://github.com/user-attachments/assets/3ff03991-ba61-469b-96f2-4e15f8d5edf0) Tab until opened
 
+6. **Success**
+
+   Wait a few seconds and the chrome automatically closed and check the `list_top_traders.txt`
+
 ## Note
 
 Check my ["Solana Wallet Checker"](https://github.com/ganarkf/solana-wallet-checker) Repo too
