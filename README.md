@@ -6,7 +6,7 @@
    git clone https://github.com/ganarkf/ds-top-traders.git
    ```
    ```bash
-   cd solana-wallet-checker
+   cd ds-top-traders
    ```
 
 2. **Create and Activate Virtual Environment**
@@ -36,9 +36,9 @@
 
    Click the ![image](https://github.com/user-attachments/assets/3ff03991-ba61-469b-96f2-4e15f8d5edf0) Tab until opened
 
-6. **Success**
+6. **Wait**
 
-   Wait a few seconds and the chrome automatically closed and check the `list_top_traders.txt`
+   Wait a few seconds until the chrome automatically closed and check the `list_top_traders.txt`
 
 ## Note
 
