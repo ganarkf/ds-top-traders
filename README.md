@@ -30,11 +30,11 @@
 
 4. **Run main.py**
 
-   Run `main.py` until the chrome is opened
+   Run `main.py`
 
 5. **Click the "Top Traders"**
 
-   Click the ![image](https://github.com/user-attachments/assets/3ff03991-ba61-469b-96f2-4e15f8d5edf0) Tab until opened
+   Once Chrome is open, click the ![image](https://github.com/user-attachments/assets/3ff03991-ba61-469b-96f2-4e15f8d5edf0) Tab
 
 6. **Wait**
 
