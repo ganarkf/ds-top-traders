@@ -34,7 +34,7 @@
 
 5. **Click the "Top Traders"**
 
-   Once Chrome is open, click the ![image](https://github.com/user-attachments/assets/3ff03991-ba61-469b-96f2-4e15f8d5edf0) Tab
+   Once Chrome is open, pass the captcha, and click the ![image](https://github.com/user-attachments/assets/3ff03991-ba61-469b-96f2-4e15f8d5edf0) Tab
 
 6. **Wait**
 
