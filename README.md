@@ -42,4 +42,6 @@
 
 ## Note
 
-Check my ["Solana Wallet Checker"](https://github.com/ganarkf/solana-wallet-checker) Repo too
+Also check my other repo : 
+<br />● [Solana Wallet Generator](https://github.com/ganarkf/sol-wallet-generator)
+<br />● [DS Top Traders](https://github.com/ganarkf/ds-top-traders)
