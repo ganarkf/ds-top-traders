@@ -1,3 +1,6 @@
+## ⚠️DS Cloudflare Updated⚠️
+The cloudflare bypass code currently doesn't work, but still can use the rest of the code.
+
 ## Setup
 
 1. **Clone the Repository**
